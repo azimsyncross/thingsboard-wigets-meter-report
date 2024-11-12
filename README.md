@@ -1,7 +1,3 @@
-Here's a `README.md` document for your ThingsBoard widget. This guide provides an overview of each function, explaining its purpose, parameters, and how it fits into the widget’s overall structure.
-
----
-
 # ThingsBoard Custom Widget - Data Table with Date Range Filter and Pagination
 
 This custom widget for ThingsBoard allows users to view energy, voltage, and current data over a specified date range. The widget features a date range picker, data-fetch button, loading indicators, paginated table view, and error handling. Below is an explanation of each major component and function used in this widget.
